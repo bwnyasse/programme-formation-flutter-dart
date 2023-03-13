@@ -70,6 +70,11 @@ Ce programme donnerait aux apprenants une compréhension complète du développe
 - Configuration de CI/CD pour les applications Flutter avec **CodeMagic** ou **Github Actions**
 - Automatisation des processus de construction, de test et de déploiement
 
+## Module 11 : Sujets avancés
+
+- Construction et utilisation de **plugins et de packages Flutter**
+- Utilisation de **Firebase Remote Config** pour la mise en place des **features flags** dans les applications Flutter
+
 
 
 
